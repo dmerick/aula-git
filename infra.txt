@@ -1,1 +1,2 @@
 Infra-agil
+Linha adicionada lá na máquina docker.dexter.com.br
