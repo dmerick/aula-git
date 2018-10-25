@@ -1,2 +1,4 @@
 Infra-agil
 Linha adicionada lá na máquina docker.dexter.com.br
+Não estejas entre os beberrões de vinho, nem entre os comilões de carne.
+Proverbios 23:20
